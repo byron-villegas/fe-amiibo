@@ -1,0 +1,29 @@
+{
+    "name": "Amiibo",
+    "short_name": "Amiibo",
+    "description": "An application to view amiibos by series.",
+    "author": "Byron Villegas Moya",
+    "developer": {
+      "name": "Byron Villegas Moya",
+      "email": "byronvillegasm@gmail.com",
+      "url": "https://www.linkedin.com/in/byron-villegas-moya"
+    },
+    "categories": [
+      "Amiibo",
+      "Hobby"
+    ],
+    "start_url": "/",
+    "id": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "default_locale": "es",
+    "orientation": "landscape",
+    "icons": [
+      {
+        "src": "/images/favicon.webp",
+        "sizes": "192x192",
+        "type": "image/webp"
+      }
+    ]
+  }
