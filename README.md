@@ -38,6 +38,12 @@ npm run build
 npm run test:unit
 ```
 
+### Run Unit Tests with Coverage
+
+```sh
+npm run test:unit:coverage
+```
+
 ### Run End-to-End Tests with [Nightwatch](https://nightwatchjs.org/)
 
 ```sh
