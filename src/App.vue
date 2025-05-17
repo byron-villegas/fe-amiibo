@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import "bootstrap"
 import { RouterView, useRoute } from 'vue-router'
 import Navbar from './components/Navbar.vue';
 import Footer from './components/Footer.vue';
